@@ -16,6 +16,7 @@
 ### Learn to code
 - https://www.codecademy.com/
 - http://nodeschool.io
+- http://es6katas.org
 
 ### OpenUI5
 
