@@ -3,5 +3,6 @@
 This is the genral repo for the hackerstolz hackschool. In this repo we collect information and other materials for all our great hackschools.
 
 - [Lean to code](/docs/link-collection.md#learn-to-code)
+- [Proof your skills](/docs/link-collection.md#proof-your-skills)
 - [OpenUI5](/docs/link-collection.md#openui5)
-- [EcmaScript 6 Katas](http://es6katas.org)
+
