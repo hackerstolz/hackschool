@@ -18,7 +18,7 @@
 - https://www.codecademy.com/
 - http://nodeschool.io
 
-### Proof your skills
+### Prove your skills
 - http://es6katas.org
 
 ### OpenUI5
