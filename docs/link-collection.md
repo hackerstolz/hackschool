@@ -5,6 +5,7 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Learn to code](#learn-to-code)
+- [Proof your skills](#proof-your-skills)
 - [OpenUI5](#openui5)
   - [SAPUI5 Inspector tool](#sapui5-inspector-tool)
   - [Community](#community)
@@ -16,6 +17,8 @@
 ### Learn to code
 - https://www.codecademy.com/
 - http://nodeschool.io
+
+### Proof your skills
 - http://es6katas.org
 
 ### OpenUI5
